@@ -1,4 +1,14 @@
-### Hi there 👋
+### Olá, tudo bem? Bem vindo ao meu github! 👋
+
+Me chamo Caio, tenho 26 anos e sou de Belo Horizonte.
+
+Sou formado em Engenharia de Produção pela Universidade Federal de Minas Gerais e encontrei na área de dados a carreira que quero seguir durante minha vida profissional. BI, data analytics e data science são meus interesses e aqui postarei alguns projetos já realizados por mim ao longo da minha vida acadêmica, como meu TCC que utilizou aplicações de machine learning no contexto de e-commerce, e outros projetos de estudo no meu tempo livre utilizando ferramentas e linguagens que tenho ou tive contato como Power BI, Tableau, R e Python.
+
+Espero que vocês gostem e possamos trocar experiências!
+
+Até mais! 🚀🚀
+
+
 
 <!--
 **caiohas/caiohas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
