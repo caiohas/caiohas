@@ -1,26 +1,37 @@
-### Olá, tudo bem? Bem vindo ao meu github! 👋
+# Hi 👋, I'm Caio
 
-Me chamo Caio, tenho 28 anos e sou de Belo Horizonte.
+I'm just a data analyst from Brazil who loves solving problems with data!  
 
-Sou formado em Engenharia de Produção pela Universidade Federal de Minas Gerais e encontrei na área de dados a carreira que quero seguir durante minha vida profissional. BI, data analytics e data science são meus interesses e aqui postarei alguns projetos já realizados por mim ao longo da minha vida acadêmica, como meu TCC que utilizou aplicações de machine learning no contexto de e-commerce, e outros projetos de estudo no meu tempo livre utilizando ferramentas e linguagens que tenho ou tive contato como Power BI, Tableau, R e Python.
+🔭 I’m currently working on projects of my MBA (here my last one: https://github.com/caiohas/knn-clustering)
 
-Espero que vocês gostem e possamos trocar experiências!
+🌱 I’m currently learning Statistics and ML
 
-Até mais! 🚀🚀
+💬 Ask me about Statistics, SQL, DataViz and Python
 
+📫 How to reach me: [caiohas.2908@gmail.com](mailto:caiohas.2908@gmail.com)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/caiohas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/caiohas/" height="30" width="40" /></a>
+</p>
 
-<!--
-**caiohas/caiohas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
+  <a href="https://plotly.com/python/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" alt="plotly" width="40" height="40"/> </a> 
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" alt="streamlit" width="40" height="40"/> </a> 
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+</p>
 
-Here are some ideas to get you started:
+<!-- 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiohas&show_icons=true&theme=dark&locale=en&layout=compact" alt="caiohas" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caiohas&show_icons=true&theme=dark&locale=en" alt="caiohas" /></p>
 -->
