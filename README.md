@@ -6,7 +6,7 @@ I'm just a data analyst from Brazil who loves solving problems with data!
 
 🌱 I’m currently learning Statistics and ML
 
-💬 Ask me about Statistics, SQL, DataViz and Python
+💬 Ask me about Statistics, SQL, DataViz, Data Modeling and Python
 
 📫 How to reach me: [caiohas.2908@gmail.com](mailto:caiohas.2908@gmail.com)
 
