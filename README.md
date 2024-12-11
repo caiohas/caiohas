@@ -1,12 +1,12 @@
 # Hi 👋, I'm Caio
 
-I'm just a data analyst from Brazil who loves solving problems with data!  
+I'm just an Analytics Engineer from Brazil who loves solving problems with data!  
 
-🔭 I’m currently working on projects of my MBA (here my last one: https://github.com/caiohas/knn-clustering)
+🔭 I’m currently working on projects of my MBA (here my last one: https://github.com/caiohas/knn-clustering) and my Data Engineering study!
 
-🌱 I’m currently learning Statistics and ML
+🌱 I’m currently learning Data Engineering, Statistics and ML
 
-💬 Ask me about Statistics, SQL, DataViz, Data Modeling and Python
+💬 Ask me about Statistics, SQL, DataViz, Data Modeling, Data Engineering and Python
 
 📫 How to reach me: [caiohas.2908@gmail.com](mailto:caiohas.2908@gmail.com)
 
