@@ -1,4 +1,4 @@
-# Hi 👋, I'm Caio
+# Hi, I'm Caio!
 
 I'm just an Analytics Engineer from Brazil who loves solving problems with data!  
 
