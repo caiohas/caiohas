@@ -21,7 +21,7 @@ I'm just a data analyst from Brazil who loves solving problems with data!
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/pydata_pandas/images/3379b038-0796-45fe-8467-3fba66c10b70.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="spark" width="40" height="40"/> </a> 
   <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/databricks/images/9855b91e-d2d8-47d7-9cd8-7055b18cfadf.svg" alt="databricks" width="40" height="40"/> </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>  
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="gcp" width="40" height="40"/> </a>  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
