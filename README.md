@@ -2,7 +2,7 @@
 
 I'm just an Analytics Engineer from Brazil who loves solving problems with data!  
 
-- I’m currently working on projects of my MBA (here my last one: https://github.com/caiohas/knn-clustering) and my Data Engineering study!
+- I’m currently working on projects of The Data Journey, with prof. Luciano Galvão (@lvgalvao), to improve even more my Data Engineering skills!
 
 - I’m currently learning Data Engineering, Statistics and ML
 
