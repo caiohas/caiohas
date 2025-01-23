@@ -16,6 +16,7 @@ I'm just an Analytics Engineer from Brazil who loves solving problems with data!
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgreSQL" width="40" height="40"/> </a> 
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/> </a> 
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/apache_airflow/images/9c14446f-4cdc-4b19-9290-c753fc20fb2a.svg" alt="airflow" width="40" height="40"/> </a> 
   <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/dbt-icon.svg" alt="dbt" width="40" height="40"/> </a> 
