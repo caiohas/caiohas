@@ -29,4 +29,5 @@ I'm just an Analytics Engineer from Brazil who loves solving problems with data!
   <a href="https://learn.microsoft.com/pt-br/power-bi/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caiohas&show_icons=true&theme=dark&locale=en" alt="caiohas" /></p>
+[<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caiohas&show_icons=true&theme=dark&locale=en" alt="caiohas" /></p>
+](url)
