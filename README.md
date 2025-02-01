@@ -22,7 +22,7 @@ I'm just an Analytics Engineer from Brazil who loves solving problems with data!
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/apache_airflow/images/9c14446f-4cdc-4b19-9290-c753fc20fb2a.svg" alt="airflow" width="40" height="40"/> </a> 
   <a href="https://learn.microsoft.com/en-us/azure/data-factory/" target="_blank" rel="noreferrer"> <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-docs/data-factory.svg" alt="adf" width="40" height="40"/> </a> 
   <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/cEFKB__docker.svg" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/dochne/wappalyzer/blob/main/src/images/icons/Docker.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com/pt/?nc2=h_lg" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/448266/aws.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://azure.microsoft.com/pt-br" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
