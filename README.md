@@ -26,6 +26,7 @@ I'm just an Analytics Engineer from Brazil who loves solving problems with data!
   <a href="https://aws.amazon.com/pt/?nc2=h_lg" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/448266/aws.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://azure.microsoft.com/pt-br" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/cEFKB__docker.svg" alt="docker" width="40" height="40"/> </a>   
+  <a href="https://docs.airbyte.com/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/airbyteio/images/0b7835a0-eb34-4378-805b-1ea958cecccf.svg" alt="airbyte" width="40" height="40"/> </a>   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://learn.microsoft.com/pt-br/power-bi/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> </a>
   <a href="https://community.tableau.com/s/" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/tableau-icon.svg" alt="tableau" width="40" height="40"/> </a> 
