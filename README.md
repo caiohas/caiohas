@@ -6,8 +6,8 @@ I'm just an Analytics Engineer from Brazil who loves solving problems with data!
 
 - Ask me about Python, SQL, DataViz, Data Modeling, Data Engineering, Analytics Engineering and other data tools you can see in my section.
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=caiohas&layout=compact)](https://github.com/caiohas)
-
+[[![](https://github-readme-stats.vercel.app/api/top-langs/?username=caiohas&layout=compact)](https://github.com/caiohas)
+](url)
 - How to reach me: [caiohas.2908@gmail.com](mailto:caiohas.2908@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
