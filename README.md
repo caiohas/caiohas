@@ -4,7 +4,7 @@ I'm just an Analytics Engineer from Brazil who loves solving problems with data!
 
 - I’m currently working on projects of The Data Journey, with prof. Luciano Galvão (@lvgalvao), to improve even more my Data Engineering skills!
 
-- Ask me about Python, SQL, DataViz, Data Modeling, Data Engineering, Analytics Engineering and other data tools you can see in my section.
+- Ask me about Python, SQL, Power BI, Data Engineering, Analytics Engineering and other data tools you can see in my section.
 
 - How to reach me: [caiohas.2908@gmail.com](mailto:caiohas.2908@gmail.com)
 
